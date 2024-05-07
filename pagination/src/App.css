@@ -39,6 +39,7 @@
 
 .pagination__disable{
   opacity: 0;
+  display: none;
 }
 
 .pagination__selected{
